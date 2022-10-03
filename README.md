@@ -4,7 +4,7 @@ This is a repo containing a dynamic array data structure written in Java modifie
 ## How to use:
 Download the [source code](https://github.com/Austin-Daigle/Iterative-Dynamic-Array-Algorithm/blob/main/ArrayAbsItr.java), compile and execute it or implement this as a class to another project.
 
-##How it works:
+## How it works:
 This program is a dynamic array with an iterator that has been written and optimized from scratch; simply use this data structure with another development. This program essentially automatically manages an array and resizes/allocates data as needed in a manner that allocates memory efficiently.
 
 ## Execution Screenshot: 
