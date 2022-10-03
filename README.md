@@ -1,5 +1,5 @@
 # Iterative Dynamic Array Data Struture
-This is a repo containing a dynamic array data structure modified to support an iterator instantiation
+This is a repo containing a dynamic array data structure written in Java modified to support an iterator instantiation
 
 ## How to use:
 Download the [source code](https://github.com/Austin-Daigle/Iterative-Dynamic-Array-Algorithm/blob/main/ArrayAbsItr.java), compile and execute it or implement this as a class to another project.
